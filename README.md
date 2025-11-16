@@ -46,7 +46,7 @@ pip install streamlit pandas matplotlib
 ## ▶️ Running the App
 
 ``` bash
-streamlit run app.py
+streamlit run main.py
 ```
 
 ## 📜 Example Code
